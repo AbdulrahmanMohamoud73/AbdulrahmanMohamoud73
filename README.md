@@ -16,5 +16,5 @@ I work with:
 - 🔭 I’m currently working on a new page for [Dahir IT Solutions](https://github.com/AbdulrahmanMohamoud73/Dahir-it-app)
 - 🌱 I’m currently learning MongoDB
 - 📫 How to reach me: By [e-mail](abdulrahman.mohamoud@dahirit.com) or on [LinkedIn](https://www.linkedin.com/in/abdulrahman-mohamoud-b52362227/)
-- ⚡ Fun fact: I play Chess♟️
+- ⚡ Fun fact: I'm currently learning Portuguese 🇵🇹 É divertido¡
   
