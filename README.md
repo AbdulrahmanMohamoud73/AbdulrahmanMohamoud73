@@ -1,6 +1,6 @@
 ### Hi, I'm Abdulrahman Mohamoud 👋
 
-<-- A ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) developer. Enjoy producing elegant solutions to complex problems.  
+<!-- A ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) developer. Enjoy producing elegant solutions to complex problems.  
 
 - 🔭 I’m currently working on a new page for (Dahir IT Solutions)[https://github.com/AbdulrahmanMohamoud73/Dahir-it-app]
 - 🌱 I’m currently learning MongoDB
