@@ -14,7 +14,7 @@ I work with:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 - 🔭 I’m currently working on a new page for [Dahir IT Solutions](https://github.com/AbdulrahmanMohamoud73/Dahir-it-app)
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - 📫 How to reach me: By [E-mail](mailto:abdulrahman.mohamoud@dahirit.com) or on [LinkedIn](https://www.linkedin.com/in/abdulrahman-mohamoud-b52362227/)
 - ⚡ Fun fact: I'm currently learning Portuguese 🇵🇹 É divertido¡
   
