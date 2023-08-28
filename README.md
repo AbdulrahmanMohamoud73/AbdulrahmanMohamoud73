@@ -13,7 +13,7 @@ I work with:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- 🌱 I’m currently learning PostgreSQL 🐘
+- 🌱 I’m currently learning VUE.js
 - 📫 How to reach me: By [E-mail](mailto:abdulrahman.mohamoud@dahirit.com) or on [LinkedIn](https://www.linkedin.com/in/abdulrahman-mohamoud-b52362227/)
 - ⚡ Fun fact: I'm currently learning Portuguese 🇵🇹 É divertido¡
   
