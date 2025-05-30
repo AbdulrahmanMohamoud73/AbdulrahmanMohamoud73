@@ -1,6 +1,6 @@
 ### Hi, I'm Abdulrahman Mohamoud 👋
 
-#### A Web developer who enjoys producing elegant solutions to complex problems. 
+#### A Web developer. Enjoy producing elegant solutions to complex problems. 
 
 I work with:
 
