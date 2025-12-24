@@ -1,6 +1,6 @@
 ### Hi, I'm Abdulrahman Mohamoud 👋
 
-#### A JavaScript developer. Enjoy producing elegant solutions to complex problems. 
+#### An Application developer. Enjoy producing elegant solutions to complex problems. 
 
 I work with:
 
@@ -13,8 +13,5 @@ I work with:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- 🐍 I’m currently learning Python
 - 📫 How to reach me: By [E-mail](mailto:abdulrahman.mohamoud@outlook.com) or on [LinkedIn](https://www.linkedin.com/in/abdulrahman-mohamoud-b52362227/)
-- 📜 I'm also on [Medium](https://medium.com/@abdulrahman.mohamoud)
-- 🌱 Fun fact: I'm currently learning French 🇫🇷 c'est drôle!
   
